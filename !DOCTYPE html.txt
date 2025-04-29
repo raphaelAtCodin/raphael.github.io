@@ -1,7 +1,15 @@
 <!DOCTYPE html>
-<html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Testseite mit Bildern</title>
+</head>
 <body>
-<h1>Hello World</h1>
-<p>I'm hosted with GitHub Pages.</p>
+    <h1>Willkommen auf meiner Testseite!</h1>
+    <img src="bild1.jpg" alt="Bild 1">
+    <img src="bild2.jpg" alt="Bild 2">
+    <img src="bild3.jpg" alt="Bild 3">
+    <!-- Füge weitere Bilder hinzu -->
 </body>
 </html>
